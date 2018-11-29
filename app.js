@@ -22,7 +22,7 @@
 "use strict";
 //const PAGE_ACCESS_TOKEN = "process.env.PAGE_ACCESS_TOKEN";
 const PAGE_ACCESS_TOKEN =
-  "EAAFus9ZCYowABAPtHvDZBuPqMttCacGdEaoQhjI6USUAxHNOwhmJ3SIkpXaoT6aQ8R4ba6efRVRGKpG0GQIWZAdv9DZChygKAtUFLZB3f6GC6hOQGssR1o7AXzCsi2EIMC7C0OAoGhULby3zelXRAy0DTqt1bYdJbrPkMKDj1Tyd91N0uA6j7ISLD8TZB34ZAYZD";
+  "EAAFus9ZCYowABAL2ZBPaRpEf5ZAW4hbSx2VbXM0Vec30S1pldHZBKClsQE15jyxbWqmTdVJ7JQg2bdtS7MorbZC6MrXXBREUO2RbkA4RS6NQiDJZCtMrlZAoptLqK3tWZCxDcsn0O8kov3TdvfRDJl0xbdAZAMQ0C20rvh7d4i6WAeSxTC23DO0PTo1S3fvagaTIZD";
 // Imports dependencies and set up http server
 const request = require("request"),
   express = require("express"),
